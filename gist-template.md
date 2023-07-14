@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Explanation of a regex expression that can be used to detect if a string is a HEX code.
 
-Introductory paragraph (replace this with your text)
+This gist will explain the components of a regex expression that can detect if a string is a HEX code.
 
 ## Summary
 
@@ -56,6 +56,8 @@ A-F Range, matches a character in the range A to F (char code 65-70). Case sensi
 
 / open, indicates the start of a regular exprexssion. The / at the end is close, everything after the close / is a flag. In this case the g is indicating a global search which retains the index of the last match, allowing iterative searches.
 
+### references 
+https://regexr.com/ was used as a reference for this gist.
 ## Author
 ### The Author is an aspiring software developer with many years of experience in the conferencing industry.
 ### Link to GitHub profile: https://github.com/ctowns5
